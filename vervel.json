@@ -1,0 +1,59 @@
+{
+  "redirects": [
+    {
+      "source": "/라스",
+      "destination": "https://raw.githubusercontent.com/SunnyPhyco/gaepan/main/assets/라스대화.PNG",
+      "permanent": true
+    },
+    {
+      "source": "/빈",
+      "destination": "https://raw.githubusercontent.com/SunnyPhyco/gaepan/main/assets/빈대화.PNG",
+      "permanent": true
+    },
+    {
+      "source": "/페이",
+      "destination": "https://raw.githubusercontent.com/SunnyPhyco/gaepan/main/assets/페이대화.PNG",
+      "permanent": true
+    },
+    {
+      "source": "/제브릭",
+      "destination": "https://raw.githubusercontent.com/SunnyPhyco/gaepan/main/assets/제브릭대화.PNG",
+      "permanent": true
+    },
+    {
+      "source": "/소렌",
+      "destination": "https://raw.githubusercontent.com/SunnyPhyco/gaepan/main/assets/소렌대화.PNG",
+      "permanent": true
+    },
+    {
+      "source": "/에이드리안",
+      "destination": "https://raw.githubusercontent.com/SunnyPhyco/gaepan/main/assets/에이드리안대화.PNG",
+      "permanent": true
+    },
+    {
+      "source": "/서연",
+      "destination": "https://raw.githubusercontent.com/SunnyPhyco/gaepan/main/assets/서연대화.PNG",
+      "permanent": true
+    },
+    {
+      "source": "/류안",
+      "destination": "https://raw.githubusercontent.com/SunnyPhyco/gaepan/main/assets/류안대화.PNG",
+      "permanent": true
+    },
+    {
+      "source": "/류아",
+      "destination": "https://raw.githubusercontent.com/SunnyPhyco/gaepan/main/assets/류아대화.PNG",
+      "permanent": true
+    },
+    {
+      "source": "/유진",
+      "destination": "https://raw.githubusercontent.com/SunnyPhyco/gaepan/main/assets/유진대화.PNG",
+      "permanent": true
+    },
+    {
+      "source": "/로완",
+      "destination": "https://raw.githubusercontent.com/SunnyPhyco/gaepan/main/assets/로완대화.PNG",
+      "permanent": true
+    }
+  ]
+}
